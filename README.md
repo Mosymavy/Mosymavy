@@ -10,6 +10,9 @@ I like to create projects that strengthen my understanding of data structures, a
 <td align="right">
   <img src="images/java.png" width="50">
   <img src="images/cpp.png" width="50">
+  <img src="images/html.png" width="50">
+  <img src="images/css.png" width="50">
+  <img src="images/js.png" width="50">
 </td>
 </tr>
 </table>
@@ -20,9 +23,6 @@ I like to create projects that strengthen my understanding of data structures, a
 <tr>
 <td align="right">
   <img src="images/python.png" width="50">
-  <img src="images/html.png" width="50">
-  <img src="images/css.png" width="50">
-  <img src="images/js.png" width="50">
   <img src="images/cs.png" width="50">
   <img src="images/php.png" width="50">
 </td>
